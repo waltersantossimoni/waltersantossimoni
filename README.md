@@ -1,8 +1,8 @@
 ## Olá! Seja bem-vindo, meu nome é Walter dos Santos.
 <div align="center">
   <a href="https://github.com/WalterDSTS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WalterDSTS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalterDSTS&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=WalterDSTS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalterDSTS&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>
